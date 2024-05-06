@@ -1,5 +1,4 @@
-package arr;
-
+//백준 10828번
 import java.io.*;
 
 public class Stack1 {
