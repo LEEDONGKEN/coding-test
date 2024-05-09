@@ -2,6 +2,7 @@ package arr;
 
 import java.util.Arrays;
 import java.util.Scanner;
+//백준 나무자르기 2805
 
 public class BinarySearch1 {
 
