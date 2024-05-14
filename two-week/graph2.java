@@ -1,5 +1,5 @@
-package ch3;
-
+// 백준 2667 단지번호 붙이기 
+// 다시 코드 분석해보기
 import java.util.*;
 import java.io.*;
 
