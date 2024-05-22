@@ -1,5 +1,6 @@
 package ch4;
 
+// 12845번 모두의마블
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
