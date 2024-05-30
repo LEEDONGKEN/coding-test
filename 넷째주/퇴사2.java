@@ -3,6 +3,7 @@ package ch5;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//백준15486
 public class Main4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
