@@ -2,7 +2,7 @@ package ch5;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+// 백준 11049 행렬 곱셈 순서
 public class Main6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
